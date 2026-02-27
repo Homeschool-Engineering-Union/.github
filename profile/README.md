@@ -1,4 +1,5 @@
-# ✦ HSEU ✦
+# HSEU (Homeschool Engineering Union)
+
 
 > *Homeschoolers driving tomorrow's innovations.*
 
