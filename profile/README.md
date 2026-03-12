@@ -25,8 +25,8 @@ We collaborate on technical projects, share ideas, and build tools that demonstr
 
 | Country | Members |
 | ------- | ------- |
-| PH      | 1       |
-| SG      | 4       |
+| Philippines    | 1       |
+| Singapore    | 4       |
 
 **Total Members:** 5
 
