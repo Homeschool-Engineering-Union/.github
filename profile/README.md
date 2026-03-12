@@ -15,7 +15,7 @@ We collaborate on technical projects, share ideas, and build tools that demonstr
 
 | Category    | Details                                       |
 | ----------- | --------------------------------------------- |
-| **Founded** | 2025                                          |
+| **Founded** | 2025, Singapore                               |
 | **Type**    | Independent Homeschool Engineering Collective |
 | **Focus**   | Engineering · Technology · Innovation         |
 
