@@ -2,6 +2,13 @@
 
 > *Homeschoolers driving tomorrow's innovations.*
 
+## Joining
+
+If you are a homeschooled student interested in engineering or technology, you are welcome to connect with us.
+
+**To join or learn more:**
+DM **olcreeps** on Discord.
+
 ---
 
 ## Overview
@@ -57,11 +64,3 @@ HSEU exists to create an environment where homeschooled students can:
 HSEU operates as a **small decentralized engineering collective**.
 Members contribute through projects, research, and technical collaboration.
 
----
-
-## Joining
-
-If you are a homeschooled student interested in engineering or technology, you are welcome to connect with us.
-
-**To join or learn more:**
-DM **olcreeps** on Discord.
