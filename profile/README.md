@@ -7,7 +7,7 @@
 If you are a homeschooled student interested in engineering or technology, you are welcome to connect with us.
 
 **To join or learn more:**
-DM **olcreeps** on Discord.
+DM `olcreeps` on Discord.
 
 ## Overview
 
