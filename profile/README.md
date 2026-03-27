@@ -9,14 +9,10 @@ If you are a homeschooled student interested in engineering or technology, you a
 **To join or learn more:**
 DM **olcreeps** on Discord.
 
----
-
 ## Overview
 
 The **Homeschool Engineering Union (HSEU)** is a small collective of homeschooled innovators focused on engineering, technology, and experimental development.
 We collaborate on technical projects, share ideas, and build tools that demonstrate student-driven innovation.
-
----
 
 ## Organization
 
@@ -25,8 +21,6 @@ We collaborate on technical projects, share ideas, and build tools that demonstr
 | **Founded** | 2025, Singapore                               |
 | **Type**    | Independent Homeschool Engineering Collective |
 | **Focus**   | Engineering · Technology · Innovation         |
-
----
 
 ## Membership
 
@@ -37,8 +31,6 @@ We collaborate on technical projects, share ideas, and build tools that demonstr
 
 **Total Members:** 5
 
----
-
 ## Mission
 
 HSEU exists to create an environment where homeschooled students can:
@@ -48,16 +40,12 @@ HSEU exists to create an environment where homeschooled students can:
 * develop technical skills
 * build real-world innovations
 
----
-
 ## Areas of Work
 
 * Embedded systems
 * Software development
 * Experimental engineering projects
 * Open technology collaboration
-
----
 
 ## Structure
 
