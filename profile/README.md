@@ -4,6 +4,8 @@
 
 ## Joining
 
+**NOTICE: WE ARE CURRENTLY LOOKING FOR HOMESCHOOLERS WHO ARE GREAT IN RESEARCHING SOCIETAL AND WORLD ISSUES TOO!**
+
 If you are a homeschooled student interested in engineering or technology, you are welcome to connect with us.
 
 **To join or learn more:**
